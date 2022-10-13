@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SC2006-SAMMY/posenetjs/static/css/main.523f09c5.chunk.css",
+    "main.js": "/SC2006-SAMMY/posenetjs/static/js/main.40b20501.chunk.js",
+    "main.js.map": "/SC2006-SAMMY/posenetjs/static/js/main.40b20501.chunk.js.map",
+    "runtime-main.js": "/SC2006-SAMMY/posenetjs/static/js/runtime-main.f82d7b20.js",
+    "runtime-main.js.map": "/SC2006-SAMMY/posenetjs/static/js/runtime-main.f82d7b20.js.map",
+    "static/js/2.2771482a.chunk.js": "/SC2006-SAMMY/posenetjs/static/js/2.2771482a.chunk.js",
+    "static/js/2.2771482a.chunk.js.map": "/SC2006-SAMMY/posenetjs/static/js/2.2771482a.chunk.js.map",
+    "index.html": "/SC2006-SAMMY/posenetjs/index.html",
+    "precache-manifest.c62207cb034a90631b56f8ae98f1a7c4.js": "/SC2006-SAMMY/posenetjs/precache-manifest.c62207cb034a90631b56f8ae98f1a7c4.js",
+    "service-worker.js": "/SC2006-SAMMY/posenetjs/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/SC2006-SAMMY/posenetjs/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.2771482a.chunk.js.LICENSE.txt": "/SC2006-SAMMY/posenetjs/static/js/2.2771482a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f82d7b20.js",
+    "static/js/2.2771482a.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.40b20501.chunk.js"
+  ]
+}
